@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-HF6U34C_SERVER.Sale_Person 1"
+  DTS:DTSID="{167AECB1-BF31-44C4-A07C-57B4E4B7BC80}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=DESKTOP-HF6U34C\SERVER;Initial Catalog=Sale_Person;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-Sales_Person-{167AECB1-BF31-44C4-A07C-57B4E4B7BC80}DESKTOP-HF6U34C\SERVER.Sale_Person;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
